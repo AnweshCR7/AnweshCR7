@@ -10,11 +10,10 @@
     <p>
     Welcome to my repository. I am a final year Master Student at TU Delft pursuing Masters in Data Science. This is a collection of all(most) of my projects. Actively looking for  opportunities in the field Machine Learning/Artificial Intelligence for summer 2021.
     <br><br>
-    <!-- <samp> -->
-    
+    <samp>
     P.S. 
-    I do agree (as a dev) that Python is not a REAL programming language but (as a data scientist) I'm in love nevertheless! :v:
-    <!-- </samp> -->
+    I do agree (as a dev) that Python is not a REAL programming language but (as a data scientist) I'm in love nevertheless! :haha:
+    </samp>
 </p>
 
 <br>
@@ -67,10 +66,6 @@
   <a href="www.linkedin.com/in/anwesh-marwade-87172211b"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://www.instagram.com/the.last.uchiha/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/anweshcr7"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-</p>
-
-<p align="center">
-  <i> Open to anything under the stars :sparkles: </i>
 </p>
 
 <br>
