@@ -16,7 +16,7 @@
     <br><br>
 </p>
 
-<details>
+<details open>
   <summary> <b> Did I pique your interest? </b> <i>(click to know more!)</i> </summary>
   
   <br>
