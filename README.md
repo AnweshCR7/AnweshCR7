@@ -24,24 +24,26 @@
 
 ---
 
-### - Languages and Tools...
+### My Repertoire
 
 <p align="center">
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" 
-  alt="angular" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" 
-  alt="angular" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" 
-  alt="angular" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" 
-  alt="angular" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/AnweshCR7/AnweshCR7/blob/master/assets/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/AnweshCR7/AnweshCR7/blob/master/assets/svg/dev/misc/datascience.svg" 
+  alt="ds" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/AnweshCR7/AnweshCR7/blob/master/assets/svg/dev/misc/ai.svg" 
+  alt="ai" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/AnweshCR7/AnweshCR7/blob/master/assets/svg/dev/services/dockerhub.svg" 
+  alt="docker" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/AnweshCR7/AnweshCR7/blob/master/assets/svg/dev/services/aws.svg" 
+  alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/AnweshCR7/AnweshCR7/blob/master/assets/svg/dev/languages/csharp_dotnet.svg" 
+  alt="csharpdotnet" style="vertical-align:top; margin:4px">
 
 ---
 
@@ -70,8 +72,8 @@
 
 <br>
 
-<!-- <p align="center">
-  Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
-</p> -->
+<p align="center">
+  Made with :heart: &nbsp;on Github &nbsp;using HTML and Markdown
+</p>
 
 Apart from that, I am an avid football fan (Glory Glory,Manchester United), and I love meeting new people as it allows me to gain a better perspective at life. Interested in AI projects and ideas which I pursue part time. Confidence and Conscientiousness are two words that describe me aptly.
