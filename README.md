@@ -63,9 +63,9 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/anwesh-marwade-87172211b"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://www.instagram.com/the.last.uchiha/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/anweshcr7"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="www.linkedin.com/in/anwesh-marwade-87172211b"><img src="https://github.com/AnweshCR7/AnweshCR7/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.instagram.com/the.last.uchiha/"><img src="https://github.com/AnweshCR7/AnweshCR7/blob/master/assets/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/anweshcr7"><img src="https://github.com/AnweshCR7/AnweshCR7/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
 </p>
 
 <br>
