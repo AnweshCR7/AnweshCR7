@@ -79,7 +79,6 @@
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
 </p> -->
 
-
 I am a highly motivated developer with a predisposition towards exploring new fields and technologies. In my role as a Software Engineering Specialist, the fact that I was able to deliver multiple production level web based tools in less than a year on the job, demonstrates my ability to pick things up real quick. Worked with Angular 5 and Polymer with a C#/.NET back-end. 
 
 Given a history of strong projects involving Web/Android based UI and writing REST APIs and Services, I can translate a real world problem into software based solutions with fair competence. While my professional expertise lies in building highly scalable and functional web applications, personally I love spending time reading about advances in tech and the various innovative solutions that are being applied around the world to solve interestingly complex cross-domain problems. (Read, Medium).
