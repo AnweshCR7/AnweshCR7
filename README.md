@@ -31,32 +31,35 @@
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" 
+  alt="angular" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" 
+  alt="angular" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" 
+  alt="angular" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" 
+  alt="angular" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
 
 ---
 
 </p>
 
-### - I'm currently...
+### What am I upto?
 
-- Improving my React Native skills.
-- Learning to develop Mobile-first web-apps.
-- Learning React with Redux.
-- Adding databases to my skill set.
+- Final year Master Student.
+- Final year Master Student needing to start working on my thesis.
+- Working on showing my work as a series of academic blog posts.
+- Honestly? Just trying to keep up with life ;)
 
 ---
 
 </details>
 
 <p align="center"> 
-  <i> Share my passion for data science and/or software development? Feel free to connect! :incoming_envelope: </i>
+  <i> Share my passion for data science and/or software development? Feel free to connect! </i>
 </p>
 
 <p align="center">
@@ -71,8 +74,4 @@
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
 </p> -->
 
-I am a highly motivated developer with a predisposition towards exploring new fields and technologies. In my role as a Software Engineering Specialist, the fact that I was able to deliver multiple production level web based tools in less than a year on the job, demonstrates my ability to pick things up real quick. Worked with Angular 5 and Polymer with a C#/.NET back-end. 
-
-Given a history of strong projects involving Web/Android based UI and writing REST APIs and Services, I can translate a real world problem into software based solutions with fair competence. While my professional expertise lies in building highly scalable and functional web applications, personally I love spending time reading about advances in tech and the various innovative solutions that are being applied around the world to solve interestingly complex cross-domain problems. (Read, Medium).
-
-Apart from that, I am an football fanatic (Manchester United fan: Hardcore), and I love meeting new people as it allows me to gain a better perspective at life. Interested in AI projects and ideas which I pursue part time. Confidence and Conscientiousness are two words that describe me aptly.
+Apart from that, I am an avid football fan (Glory Glory,Manchester United), and I love meeting new people as it allows me to gain a better perspective at life. Interested in AI projects and ideas which I pursue part time. Confidence and Conscientiousness are two words that describe me aptly.
