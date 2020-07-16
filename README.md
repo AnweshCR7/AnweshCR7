@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <!-- <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%"> -->
+  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=AnweshCR7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
   <br><br>
   <samp>
     "A curious developer currently pursuing masters in data science. Strive towards writing purposeful code with an intention to contribute to things that matter" - Anwesh (that's me!)
@@ -10,20 +11,15 @@
     <p>
     Welcome to my repository. I am a final year Master Student at TU Delft pursuing Masters in Data Science. This is a collection of all(most) of my projects. Actively looking for  opportunities in the field Machine Learning/Artificial Intelligence for summer 2021.
     <br><br>
-    <samp>
-    P.S. 
-    I do agree (as a dev) that Python is not a REAL programming language but (as a data scientist) I'm in love nevertheless! :haha:
-    </samp>
+    I am a highly motivated learner with a predisposition towards exploring new fields and technologies. Currently working towards a potential career at the intersection of Sports and Data Science, specifically targetting Computer Vision and Machine Learning.
+    <br><br>
 </p>
 
-<br>
-
 <details>
-  <summary> <b> Did I pique your interest? </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> Did I pique your interest? </b> <i>(click to know more!)</i> </summary>
   
   <br>
-  
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=AnweshCR7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
