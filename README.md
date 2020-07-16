@@ -60,6 +60,8 @@
 
 </details>
 
+Apart from that, I am an avid football fan (Glory Glory, Manchester United), and I love meeting new people as it allows me to gain a better perspective at life. Interested in AI projects and ideas which I pursue part time. Confidence and Conscientiousness are two words that describe me aptly.
+
 <p align="center"> 
   <i> Share my passion for data science and/or software development? Feel free to connect! </i>
 </p>
@@ -75,5 +77,3 @@
 <p align="center">
   Made with :heart: &nbsp;on Github &nbsp;using HTML and Markdown
 </p>
-
-Apart from that, I am an avid football fan (Glory Glory,Manchester United), and I love meeting new people as it allows me to gain a better perspective at life. Interested in AI projects and ideas which I pursue part time. Confidence and Conscientiousness are two words that describe me aptly.
