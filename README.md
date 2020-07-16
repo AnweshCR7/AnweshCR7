@@ -1,5 +1,5 @@
 
-<img src="https://github.com/AnweshCR7/AnweshCR7/blob/master/assets/gif/screedbot.gif" width="30%">
+<!--<img src="https://github.com/AnweshCR7/AnweshCR7/blob/master/assets/gif/screedbot.gif" width="30%">-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AnweshCR7)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
