@@ -5,12 +5,12 @@
 <p align="center">
   <br>
   <samp>
-    "A curious developer currently pursuing masters in data science. Strive towards writing purposeful code with an intention to contribute to things that matter" - Anwesh (that's me!)
+    "A curious Machine Learning Engineer trying to keep up with life and data science. Strive towards writing purposeful code with an intention to contribute to things that matter" - Anwesh (that's me!)
     <br><br>
     </samp>
     </p>
     <p>
-    Welcome to my repository. I am a final year Master Student at TU Delft pursuing Masters in Data Science. This is a collection of all(most) of my projects. Actively looking for  opportunities in the field Machine Learning/Artificial Intelligence for summer 2021.
+    Welcome to my repository. I work as a Machine Learning Engineer at Lensor.ai with a focus on Computer Vision. We perform automated damage detections on automobiles. A Data Science masters graduate from TU Delft. This is a collection of all(most) of my projects. Actively looking for collaborations on projects involving large language models (LLMs)
     <br><br>
     I am a highly motivated learner with a predisposition towards exploring new fields and technologies. Currently working towards a potential career at the intersection of Sports and Data Science, specifically targetting Computer Vision and Machine Learning.
     <br><br>
@@ -39,7 +39,6 @@
   alt="docker" style="vertical-align:top; margin:4px">
   <img src="https://github.com/AnweshCR7/AnweshCR7/blob/master/assets/svg/dev/services/aws.svg" 
   alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/AnweshCR7/AnweshCR7/blob/master/assets/svg/dev/languages/csharp_dotnet.svg" 
@@ -51,8 +50,8 @@
 
 ### What am I upto?
 
-- Final year Master Student.
-- Final year Master Student needing to start working on my thesis.
+- Building a life in the Netherlands!
+- Trying to figure out LLMs - Hype or The way to go?
 - Working on showing my work as a series of academic blog posts.
 - Honestly? Just trying to keep up with life ;)
 
